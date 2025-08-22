@@ -1,0 +1,93 @@
+.app{
+  background-color: rgb(201, 201, 27);
+  width: 100vw;
+  height: 100vh;
+  
+}
+.main1{
+  top: 5vh;
+  left:5vw;
+  width: 30vw;
+  height: 90vh;
+  border-radius: 20px;
+  /* background-color: rgb(183, 184, 185); */
+  position: relative;
+}
+.sub1 img{
+  position:absolute;
+  top: 8vh;
+  left: 5vw;
+  width: 23vw;
+  height: 60vh;
+  align-items: center;
+  border-radius: 20px;
+  
+}
+.main1 h1{
+  position: absolute;
+  top:65vh;
+  left: 12vw;
+  text-align: center;
+}
+.main1 h2{
+  position: absolute;
+  top:72vh;
+  left: 8vw;
+  text-align: center;
+}
+
+.main2{
+  top: 5vh;
+  left:40vw;
+  width: 55vw;
+  height: 90vh;
+  border-radius: 20px;
+  background-color: rgb(183, 184, 185);
+  position: absolute;
+}
+.nav{
+  width: 55vw;
+  height: 7vh;
+  padding: 20px;
+ 
+ 
+}
+.nav button {
+  margin: 7px;
+  padding: 10px 16px;
+  width: 9.6vw;
+  height: 7vh;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.section{
+  position: absolute;
+  top: 15vh;
+  left: 3vw;
+  width: 50vw;
+  height: 80vh;
+}
+.about{
+ 
+  left: 2vw;
+  font-size:x-large;
+}
+.skills,.interest li{
+  
+  left: 2vw;
+  font-size:x-large;
+}
+.projects{
+  font-size:15px;
+}
+a{
+  display: inline;
+}
+.contact{
+  font-size: x-large;
+}
